@@ -1,0 +1,19 @@
+{
+  "name": "rixbrnn-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for code quality and engineering workflows.",
+  "author": {
+    "name": "rixbrnn"
+  },
+  "repository": "https://github.com/rixbrnn/skills",
+  "license": "MIT",
+  "keywords": [
+    "engineering",
+    "skills",
+    "clean-code",
+    "code-quality"
+  ],
+  "skills": [
+    "./skills/engineering/cleanup-comments"
+  ]
+}

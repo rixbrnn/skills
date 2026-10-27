@@ -1,0 +1,21 @@
+{
+  "name": "rixbrnn-skills",
+  "owner": {
+    "name": "rixbrnn"
+  },
+  "description": "Claude Code skills for code quality and engineering workflows.",
+  "plugins": [
+    {
+      "name": "rixbrnn-skills",
+      "source": "./",
+      "description": "Claude Code skills for code quality and engineering workflows.",
+      "category": "engineering",
+      "keywords": [
+        "engineering",
+        "skills",
+        "clean-code",
+        "code-quality"
+      ]
+    }
+  ]
+}
